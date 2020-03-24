@@ -1,7 +1,7 @@
 # lib/introduction.rb
 
 def introduction (name)
-  puts "Hi, my name is #{sandie}."
+  puts "Hi, my name is Josh."
 end
 
 def introduction_with_langauge(name,language)
