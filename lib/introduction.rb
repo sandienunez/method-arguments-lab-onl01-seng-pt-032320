@@ -1,6 +1,6 @@
 # lib/introduction.rb
 
-def introduction (sandie)
+def introduction (name)
   puts "Hi, my name is #{sandie}."
 end
 
